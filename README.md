@@ -140,3 +140,4 @@ dependencyLocking {
 }
 ```
 Then run `gradle dependencies --write-locks` to generate the lockfile.
+https://api.scarf.sh/v2/packages/GRAVATAR-HOVERCARDS/96bf3398-e065-47ce-b6b0-f5286e3c301b/downloads-badge
